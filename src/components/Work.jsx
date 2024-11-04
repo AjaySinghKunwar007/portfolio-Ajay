@@ -4,6 +4,7 @@ import data from "../assets/data.json"
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 
+
 const Work = () => {
   return (
     <div id="work">
@@ -11,7 +12,7 @@ const Work = () => {
         <section>
             <article>
                 <Carousel
-                showArrows={false}
+                showArrows={true}
                 showIndicators={false}
                 showThumbs={false}
                 showStatus={false}

@@ -67,7 +67,7 @@ const animationProjectCount=()=>{
           </div>
           <article>
             <p>
-              +{ratio < 2 && (<motion.span whileInView={animationClientCount} ref={clientCount}></motion.span>)}
+              +{(<motion.span whileInView={animationClientCount} ref={clientCount}></motion.span>)}
 
             </p>
             <span>Clients Worldwide</span>
@@ -75,7 +75,7 @@ const animationProjectCount=()=>{
           <aside>
             <article>
               <p>
-                +{ratio <2 && (<motion.span whileInView={animationProjectCount} ref={projectCount}></motion.span>)}
+                +{(<motion.span whileInView={animationProjectCount} ref={projectCount}></motion.span>)}
               </p>
               <span>Projects Done</span>
             </article>

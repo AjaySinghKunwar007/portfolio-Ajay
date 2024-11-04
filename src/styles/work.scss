@@ -3,11 +3,12 @@
     height: 100vh;
     padding: 8rem $p;
     >h2{
-        font: 700 3rem $text2;
+        font: 700 4rem $text2;
         width: fit-content;
         border-bottom: 1px solid $color6_1;
         padding: 0.5rem;
         margin: auto;
+        
     }
     >section{
         margin-top: 4rem;
@@ -18,8 +19,9 @@
         align-items: center;
         justify-content: center;
         >article{
-            width: 70%;
+            width: 80%;
             height: 25vmax;
+        
             
         }
         .workItem{
@@ -42,15 +44,21 @@
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
+                gap: 1.5rem;
+                >h3{
+                    font-size: 2rem;
+                }
                 >p{
                     letter-spacing: 3px;
                     line-height: 180%;
                     margin: 2rem;
+                    font-size: 1.1rem;
                 }
                 >a{
                     background-color: $color3;
                     padding: 0.7rem 2rem;
                     margin: 2rem;
+                    font-size: 1.7rem;
                     color: $color4;
                     transition: all 0.3s;
                     &:hover{
@@ -64,3 +72,4 @@
     }
 
 }
+

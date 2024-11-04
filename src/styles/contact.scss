@@ -1,5 +1,5 @@
 #contact{
-    min-height: 90vh;
+    min-height: 100vh;
     display: grid;
     grid-template-columns: 1fr 1fr;
 
@@ -16,16 +16,16 @@
             height: 100%;
             >h2{
                 text-align: center;
-                font: 100 4rem $text2;
+                font: 100 4.5rem $text2;
                 letter-spacing: 5px;
                 text-transform: uppercase;
                 margin: 2rem;
             }
             >input,>button{
                 padding: 0.8rem;
-                width: 40%;
+                width: 45%;
                 outline: none;
-                font: 400 0.9rem $text1;
+                font: 400 1.5rem $text1;
                 margin: 1rem;
                 border: none;
             }
@@ -33,7 +33,7 @@
                 cursor: pointer;
                 background-color: $color3;
                 color: $color4;
-                font : 600 1rem $text1;
+                font : 600 1.6rem $text1;
                 text-transform: uppercase;
                 margin: 3rem;
                 &:hover{
@@ -49,8 +49,8 @@
         display: grid;
         place-items: center;    
         img{
-            width: 70%;
-            height: 70%;
+            width: 90%;
+            height: 90%;
             object-fit: contain;
             filter: drop-shadow(0 0 10px rgba(224,224,224,0.675)) hue-rotate(150deg);
             animation: upupdowndown 0.7s infinite linear alternate;
@@ -59,3 +59,23 @@
 
 
 }
+
+
+/* Apply to all react-hot-toast toasts */
+.react-hot-toast {
+    font-size: 12rem;          // Increase font size
+    padding: 1.5rem 2rem;       // Adjust padding
+    min-width: 3000px;           // Minimum width for larger toasts
+    min-height: 800px;           // Minimum height to ensure more space
+    border-radius: 8px;         // Optional: rounded corners
+  }
+  
+  .react-hot-toast__icon {
+    font-size: 1.5rem;          // Adjust icon size if necessary
+  }
+  
+  .react-hot-toast__message {
+    line-height: 1.4;           // Line height for better readability
+  }
+  
+  
