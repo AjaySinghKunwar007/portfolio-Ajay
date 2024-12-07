@@ -14,7 +14,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS
-- **Hosting**: [Vercel/Netlify]
+- **Hosting**: [Vercel](https://ajayportfolio.freewebhostmost.com/)
 - **Animations**: GSAP or CSS for smooth scrolling and transitions
 - **Contact Form**: Integrated with [Formspree/Email.js] (optional)
 
