@@ -53,5 +53,5 @@ _The projects section showcasing completed works with descriptions and links._
 - **[Sass](https://sass-lang.com/)** - For helping me manage styles efficiently with variables, mixins, and modularity.
 - **[Firebase](https://firebase.google.com/)** - For offering a seamless, easy-to-integrate platform to handle user authentication and store data.
 - **[GitHub](https://github.com/)** - For providing a platform to share and collaborate on code.
-- **[Vercel](https://vercel.com/)** - For offering a smooth and easy deployment process for frontend applications.
+- **[web_host_most](https://webhostmost.com/)** - For offering a smooth and easy deployment process for frontend applications.
 ---
