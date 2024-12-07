@@ -1,6 +1,6 @@
 # Personal Portfolio Website - Ajay's Portfolio 🚀
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development. Built with React, Chakra UI, Sass, and Firebase, this portfolio serves as a reflection of my web development journey.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development. Built with React, Chakra UI, SCSS, and Firebase, this portfolio serves as a reflection of my web development journey.
 
 ## 📸 Screenshots
 
@@ -16,27 +16,22 @@ _The projects section showcasing completed works with descriptions and links._
 
 ![Footer Section](public/other-screenshot4.png)
 
-
 ## 🚀 Features
 
 - **Modern UI**: Responsive and accessible design built with [Chakra UI](https://chakra-ui.com/).
-- **Styled with Sass**: Custom and efficient styles created using [Sass](https://sass-lang.com/).
+- **Styled with SCSS**: Custom and efficient styles created using [SCSS](https://sass-lang.com/).
 - **Dynamic Data**: Firebase is used solely for handling "Contact Us" form submissions and storing user messages.
 - **Interactive Components**: Built with React to ensure smooth, dynamic user experiences.
-
 
 ## 🔧 Tech Stack
 
 - **Frontend**: 
   - [React](https://reactjs.org/)
   - [Chakra UI](https://chakra-ui.com/)
-  - [Sass](https://sass-lang.com/)
+  - [SCSS](https://sass-lang.com/)
   
 - **Backend**: 
   - [Firebase](https://firebase.google.com/) (only for handling form submissions)
-  
-
-
 
 ## 🎯 Goals
 
@@ -45,9 +40,10 @@ _The projects section showcasing completed works with descriptions and links._
 - Serve as a resource for recruiters, collaborators, and clients.
 
 ## 🔧 How It Works
+
 **Chakra UI**: The UI is styled using Chakra UI for consistency and responsiveness. Chakra UI’s component system helps in building reusable and accessible components.
 
-**Sass**: Sass is used for custom styles. It allows for cleaner, more maintainable CSS, especially for complex layouts and reusable styles.
+**SCSS**: SCSS is used for custom styles. It allows for cleaner, more maintainable CSS, especially for complex layouts and reusable styles.
 
 **React**: The project is built using React to manage the component-based structure, state management, and reactivity of the site.
 
@@ -57,8 +53,7 @@ _The projects section showcasing completed works with descriptions and links._
 
 - **[React](https://reactjs.org/)** - For being the core framework that makes this website dynamic and component-based.
 - **[Chakra UI](https://chakra-ui.com/)** - For providing a beautiful and accessible UI component library that made styling the website faster and easier.
-- **[Sass](https://sass-lang.com/)** - For helping me manage styles efficiently with variables, mixins, and modularity.
+- **[SCSS](https://sass-lang.com/)** - For helping me manage styles efficiently with variables, mixins, and modularity.
 - **[Firebase](https://firebase.google.com/)** - For offering a seamless, easy-to-integrate platform to handle user authentication and store data.
 - **[GitHub](https://github.com/)** - For providing a platform to share and collaborate on code.
 - **[web_host_most](https://webhostmost.com/)** - For offering a smooth and easy deployment process for frontend applications.
----
