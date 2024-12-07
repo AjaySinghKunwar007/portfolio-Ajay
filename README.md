@@ -2,6 +2,20 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development. Built with React, Chakra UI, Sass, and Firebase, this portfolio serves as a reflection of my web development journey.
 
+## 📸 Screenshots
+
+![Homepage](public/homepage-screenshot.png)
+_The homepage featuring a hero section with a professional introduction._
+
+![Projects Section](public/other-screenshot.png)
+_The projects section showcasing completed works with descriptions and links._
+
+![Testimonial Section](public/other-screenshot2.png)
+
+![Contact Section](public/other-screenshot3.png)
+
+![Footer Section](public/other-screenshot4.png)
+
 
 ## 🚀 Features
 
@@ -23,13 +37,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
   
 
 
-## 📸 Screenshots
-
-![Homepage](assets/images/homepage-screenshot.png)
-_The homepage featuring a hero section with a professional introduction._
-
-![Projects Section](assets/images/projects-screenshot.png)
-_The projects section showcasing completed works with descriptions and links._
 
 ## 🎯 Goals
 
